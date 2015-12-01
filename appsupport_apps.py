@@ -45,6 +45,7 @@ def main():
                "asannotation2.app",
                "aswatcher.app",
                "atmsupload.app",
+               "Atom.app",
                "Box Edit.app",
                "Box Local Com Server.app",
                "Cisco WebEx Start.app",
