@@ -48,7 +48,7 @@ def main():
                "/System/Library/Extensions/ATTOiSCSI.kext",
                "/System/Library/Extensions/dne.kext",
                "/System/Library/Extensions/dniregistry.kext",
-               "/System/Library/Extensions/IONetworkingFamily.kext/Contents/PlugIns/AX88179_178A.kext", 
+               "/System/Library/Extensions/IONetworkingFamily.kext/Contents/PlugIns/AX88179_178A.kext",
                "/System/Library/Extensions/net6im.kext",
                "/System/Library/Extensions/Seagate Storage Driver.kext",
                "/System/Library/Extensions/Soundflower.kext",]

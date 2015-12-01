@@ -80,6 +80,7 @@ def main():
                    'Safe.Connect.client.plist']
     # /Library/LaunchDaemons contents allowed, apends
     d_s_allowed += ['com.adobe.adobeupdatedaemon.plist',
+                    'com.adobe.agsservice.plist',
                     'com.adobe.ARM.SMJobBlessHelper.plist',
                     'com.adobe.fpsaud.plist',
                     'com.adobe.SwitchBoard.plist',

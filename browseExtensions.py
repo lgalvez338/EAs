@@ -163,4 +163,3 @@ if CAUGHT_EXTENSION_LIST:
 else:
     RESULT = 'Passed'
 print "<result>%s</result>" % RESULT
-
